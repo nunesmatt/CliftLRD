@@ -70,7 +70,8 @@ The function the estimate of the Hurst exponent for the series after averaging o
 If \code{BHonly=FALSE}, the routine also returns the energies and scales (on a log scale) which are used in the regression to estimate the decay properties of the spectrum (for the last lifting trajectory).
 }
 \references{
-Knight, M. I. and Nunes, M. A. (2018) Long memory estimation for complex-valued time series. \emph{Stat. Comput. (to appear)}.\cr
+Knight, M. I. and Nunes, M. A. (2018) Long memory estimation for complex-valued time series. \emph{Stat. Comput. (to appear)}. Online First Article: 
+DOI \href{https://doi.org/10.1007/s11222-018-9820-8}{10.1007/s11222-018-9820-8}.\cr
 Hamilton, J., Nunes, M. A., Knight, M. I. and Fryzlewicz, P. (2017) Complex-valued lifting and applications. \emph{Technom.},\bold{60} (1), 48--60. \cr\cr
 
 For more details on the weighted linear regression and bias calculations, see e.g.\cr \cr

@@ -2,7 +2,7 @@ Package: CliftLRD
 Type: Package
 Title: Complex-Valued Wavelet Lifting Estimators of the Hurst Exponent for Irregularly Sampled Time Series
 Version: 0.1-1
-Date: 2018-06-25
+Date: 2018-07-09
 Author: Matt Nunes [aut, cre], Marina Knight [aut] 
 Authors@R: c(person("Matt", "Nunes", role=c("aut","cre"),email="m.nunes@lancaster.ac.uk"), person("Marina", "Knight", role="aut"))
 Maintainer: Matt Nunes <m.nunes@lancaster.ac.uk>

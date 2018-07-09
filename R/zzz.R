@@ -13,12 +13,12 @@ curdate <- read.dcf(file.path(lib, pkg, "DESCRIPTION"), "Date")
 
 packageStartupMessage(paste(
 "\n",
-"****************************************************************************************\n",
+"*********************************************************************************************\n",
 "  CliftLRD: a package for Hurst exponent estimation of irregular complex-valued time series\n\n",
-"                 --- Written by Matt Nunes and Marina Knight ---\n",
-"                 Current package version: ",ver," (",curdate,") \n\n",
+"                      --- Written by Matt Nunes and Marina Knight ---\n",
+"                      Current package version: ",ver," (",curdate,") \n\n",
 "\n",
-"****************************************************************************************\n","\n")
+"**********************************************************************************************\n","\n")
 )
 
 }
