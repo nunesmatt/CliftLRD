@@ -36,7 +36,7 @@ Lilly, J. M., Sykulski, A. M., Early, J. J. and Olhede, S. C. (2017) Fractional 
 \author{
 Matt Nunes, Marina Knight
 
-Maintainer: Matt Nunes <m.nunes@lancaster.ac.uk>
+Maintainer: Matt Nunes <nunesrpackages@gmail.com>
 }
 
 \keyword{ package }
