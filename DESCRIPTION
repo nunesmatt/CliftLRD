@@ -6,7 +6,7 @@ Date: 2018-07-09
 Author: Matt Nunes [aut, cre], Marina Knight [aut] 
 Authors@R: c(person("Matt", "Nunes", role=c("aut","cre"),email="nunesrpackages@gmail.com"), person("Marina", "Knight", role="aut"))
 Maintainer: Matt Nunes <nunesrpackages@gmail.com>
-Description: Implementations of Hurst exponent estimators based on the relationship between wavelet lifting scales from complex-valued lifting schemes and wavelet energy. 
+Description: Implementation of Hurst exponent estimators based on complex-valued lifting wavelet energy from Knight, M. I and Nunes, M. A. (2018) <doi:10.1007/s11222-018-9820-8>. 
 License: GPL-2
 Depends: CNLTreg, liftLRD
 Suggests: fracdiff

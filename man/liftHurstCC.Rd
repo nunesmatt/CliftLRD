@@ -90,22 +90,11 @@ Matt Nunes, Marina Knight
 \examples{
 
 # generate a fake complex-valued series 
-x<-complex(real=rnorm(200), imaginary=rnorm(200))
+x<-complex(real=rnorm(175), imaginary=rnorm(175))
 
 # perform lifting-based estimation of the Hurst exponent
 
-\dontrun{
-Hestx<-liftHurstCC(x)
-}
-
-# An example with missingness
-
-gaps<-sort(sample(1:200,100,FALSE))
-timeindex<-setdiff(1:200,gaps)
-
-\dontrun{
-Hestx<-liftHurstC(x[timeindex],grid=timeindex)
-}
+Hestx<-liftHurstCC(x,ntraj=25)
 
 }
 
